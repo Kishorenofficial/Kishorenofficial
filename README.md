@@ -1,6 +1,7 @@
 # Welcome to [Kishore's](https://github.com/kishore6/) profile! <a href="https://github.com/kishore6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" height=15% width=40% align="right">
+### I'm a...   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif
+                " height=15% width=40% align="right">
 
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
