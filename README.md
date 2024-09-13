@@ -8,7 +8,7 @@
 * Demanding Perfectionist
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/kishorenofficial)<br>
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:nkishoreoffici@gmail.com)<br>
+📬 How to reach me: [nkishoreoffici@gmail.com(mailto:nkishoreoffici@gmail.com)<br>
 📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/kishore%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
